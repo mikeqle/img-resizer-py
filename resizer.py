@@ -2,8 +2,11 @@ import os
 from PIL import Image
 
 # Ensure 'output' directory exists, if not, create it
-output_dir = './output'
-input_dir = "./assets"
+# output_dir = './output'
+# input_dir = "./assets"
+
+input_dir = "./input_2"
+output_dir = './output_2'
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)

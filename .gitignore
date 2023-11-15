@@ -2,3 +2,4 @@ assets
 env
 output
 .DS_Store
+*.zip
